@@ -5,7 +5,7 @@
 **Website:** [https://alsaadza.github.io](https://alsaadza.github.io)
 
 ## About
-Dataism (discontinued) is a data visualization and analysis software designed for data scientists. It provides a graphical user interface (GUI) for loading CSV files, selecting variables, and running statistical analyses using R and Python scripts. The software aims to simplify the data analysis process with minimal coding knowledge required.
+Dataism is a data visualization and analysis software designed for data scientists. It provides a graphical user interface (GUI) for loading CSV files, selecting variables, and running statistical analyses using R and Python scripts. The software aims to simplify the data analysis process with minimal coding knowledge required.
 
 ## Features
 - CSV file import and variable selection
